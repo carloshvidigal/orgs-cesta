@@ -1,4 +1,5 @@
 import { StatusBar, SafeAreaView } from 'react-native';
+import { useFonts, } from '@expo-google-fonts/montserrat';
 
 import Cesta from './src/telas/Cesta';
 

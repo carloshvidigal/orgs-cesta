@@ -33,7 +33,8 @@ export default function Cesta(){
 const estilos = StyleSheet.create({
     topo: {
         width: "100%",
-        height: 578 / 768 * width,  
+        height: 578 / 768 * width,
+        fontFamily: "Montserrat"  
 
     },
     titulo: {
